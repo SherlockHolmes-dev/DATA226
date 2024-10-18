@@ -1,4 +1,3 @@
-# In Cloud Composer, add apache-airflow-providers-snowflake to PYPI Packages
 from airflow import DAG
 from airflow.models import Variable
 from airflow.decorators import task
